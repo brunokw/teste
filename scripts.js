@@ -1,3 +1,3 @@
 function entrarNoCurso(){
-    console.log('entrou no curso');
+    console.log('entrou no gbgbgbgbdsbbgcurso');
 }
